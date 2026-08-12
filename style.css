@@ -1,0 +1,12 @@
+header{border-bottom:0.5px solid rgba(255, 255,255,0.2);}
+.headerlogo-icon{float:left;}
+
+.main-background-img{position:relative;z-index:1000;}
+.main-text{float:left;top:30px;left:10px;}
+.main-smalltitle{color:lightblue;font-size:5px;}
+.main-title{font-size:50px;}
+.main-title span{color:lightblue;}
+.main-text p{font-size:9px;}
+.main-link{float:left;}
+#main-link1{background-color:orangered;color:white;padding-right:15px;}
+#main-link2{border-bottom:1px solid white;color:white;padding-right:15px;}
